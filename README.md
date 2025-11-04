@@ -111,8 +111,11 @@ The notebook is structured as follows:
 1. Incorporate machine learning to predict future occupancy.
 2. Build dashboards using Power BI or Tableau.
 
-## Author
-Angadi Abhinay
-Contact: [angadiabhinay2001@gmail.com]
-LinkedIn: https://www.linkedin.com/in/abhinay-angadi-541004159/
+## Author  
+
+**Angadi Abhinay**  
+   **Contact:** [angadiabhinay2001@gmail.com]  
+   **LinkedIn:** [https://www.linkedin.com/in/abhinay-angadi-541004159/]  
+   
+
 
